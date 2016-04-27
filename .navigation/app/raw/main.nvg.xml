@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "ru.mobindustry.gestureunlock.MainActivity"/>
+      <point      
+        x = "1640"      
+        y = "164"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "ru.mobindustry.gestureunlock.SettingsActivity"/>
+      <point      
+        x = "2584"      
+        y = "132"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "ru.mobindustry.gestureunlock.AddGestureActivity"/>
+      <point      
+        x = "1688"      
+        y = "1696"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "ru.mobindustry.gestureunlock.UnlockActivity"/>
+      <point      
+        x = "650"      
+        y = "250"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
